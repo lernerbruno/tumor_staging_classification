@@ -1,3 +1,4 @@
 notebooks/data/files/*
-
+notebooks/data/*.csv
+notebooks/data/*.json
 *.csv
