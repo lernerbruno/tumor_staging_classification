@@ -2,3 +2,8 @@ notebooks/data/files/*
 notebooks/data/*.csv
 notebooks/data/*.json
 *.csv
+
+.idea/
+
+.DS_Store
+notebooks/.ipynb_checkpoints
